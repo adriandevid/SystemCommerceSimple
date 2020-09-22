@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\bin\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.deps.json
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\bin\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.runtimeconfig.json
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\bin\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.runtimeconfig.dev.json
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\bin\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.dll
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\bin\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.pdb
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\bin\Debug\netcoreapp3.1\MRY.Domain.dll
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\bin\Debug\netcoreapp3.1\MRY.Domain.pdb
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\obj\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\obj\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\obj\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.AssemblyInfo.cs
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\obj\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\obj\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.csproj.CopyComplete
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\obj\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.dll
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\obj\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.pdb
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.DataAcesss\obj\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.genruntimeconfig.cache

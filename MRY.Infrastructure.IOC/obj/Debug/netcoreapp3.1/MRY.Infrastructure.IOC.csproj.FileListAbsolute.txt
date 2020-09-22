@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\bin\Debug\netcoreapp3.1\MRY.Infrastructure.IOC.deps.json
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\bin\Debug\netcoreapp3.1\MRY.Infrastructure.IOC.dll
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\bin\Debug\netcoreapp3.1\MRY.Infrastructure.IOC.pdb
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\bin\Debug\netcoreapp3.1\MRY.Application.dll
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\bin\Debug\netcoreapp3.1\MRY.Domain.dll
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\bin\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.dll
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\bin\Debug\netcoreapp3.1\MRY.Domain.pdb
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\bin\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.pdb
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\bin\Debug\netcoreapp3.1\MRY.Application.pdb
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\obj\Debug\netcoreapp3.1\MRY.Infrastructure.IOC.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\obj\Debug\netcoreapp3.1\MRY.Infrastructure.IOC.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\obj\Debug\netcoreapp3.1\MRY.Infrastructure.IOC.AssemblyInfo.cs
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\obj\Debug\netcoreapp3.1\MRY.Infrastructure.IOC.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\obj\Debug\netcoreapp3.1\MRY.Infrastructure.IOC.csproj.CopyComplete
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\obj\Debug\netcoreapp3.1\MRY.Infrastructure.IOC.dll
+C:\Users\PC\source\repos\MRY\MRY.Infrastructure.IOC\obj\Debug\netcoreapp3.1\MRY.Infrastructure.IOC.pdb

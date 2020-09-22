@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\MRY\MRY.Domain\bin\Debug\netcoreapp3.1\MRY.Domain.deps.json
+C:\Users\PC\source\repos\MRY\MRY.Domain\bin\Debug\netcoreapp3.1\MRY.Domain.dll
+C:\Users\PC\source\repos\MRY\MRY.Domain\bin\Debug\netcoreapp3.1\MRY.Domain.pdb
+C:\Users\PC\source\repos\MRY\MRY.Domain\obj\Debug\netcoreapp3.1\MRY.Domain.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\MRY\MRY.Domain\obj\Debug\netcoreapp3.1\MRY.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MRY\MRY.Domain\obj\Debug\netcoreapp3.1\MRY.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\MRY\MRY.Domain\obj\Debug\netcoreapp3.1\MRY.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MRY\MRY.Domain\obj\Debug\netcoreapp3.1\MRY.Domain.dll
+C:\Users\PC\source\repos\MRY\MRY.Domain\obj\Debug\netcoreapp3.1\MRY.Domain.pdb

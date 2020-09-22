@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>MRYInfrastructure_IOC</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.2.0" />
+    <PackageReference Include="CommonServiceLocator" Version="2.0.5" />
+    <PackageReference Include="ninject" Version="3.3.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MRY.Domain\MRY.Domain.csproj" />
+    <ProjectReference Include="..\MRY.Infrastructure.DataAcesss\MRY.Infrastructure.DataAcesss.csproj" />
+    <ProjectReference Include="..\MRY.Application\MRY.Application.csproj" />
+  </ItemGroup>
+
+</Project>

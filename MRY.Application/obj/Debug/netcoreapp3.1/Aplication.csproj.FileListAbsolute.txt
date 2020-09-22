@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\MRY\Aplication\obj\Debug\netcoreapp3.1\Aplication.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\MRY\Aplication\obj\Debug\netcoreapp3.1\Aplication.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MRY\Aplication\obj\Debug\netcoreapp3.1\Aplication.AssemblyInfo.cs
+C:\Users\PC\source\repos\MRY\Aplication\obj\Debug\netcoreapp3.1\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MRY\Aplication\bin\Debug\netcoreapp3.1\Aplication.deps.json
+C:\Users\PC\source\repos\MRY\Aplication\bin\Debug\netcoreapp3.1\Aplication.dll
+C:\Users\PC\source\repos\MRY\Aplication\bin\Debug\netcoreapp3.1\Aplication.pdb
+C:\Users\PC\source\repos\MRY\Aplication\bin\Debug\netcoreapp3.1\MRY.Domain.dll
+C:\Users\PC\source\repos\MRY\Aplication\bin\Debug\netcoreapp3.1\MRY.Domain.pdb
+C:\Users\PC\source\repos\MRY\Aplication\obj\Debug\netcoreapp3.1\Aplication.csproj.CopyComplete
+C:\Users\PC\source\repos\MRY\Aplication\obj\Debug\netcoreapp3.1\Aplication.dll
+C:\Users\PC\source\repos\MRY\Aplication\obj\Debug\netcoreapp3.1\Aplication.pdb
