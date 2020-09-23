@@ -55,5 +55,10 @@ namespace MRY.Application
         {
             _produtoService.SaveChanges();
         }
+
+        public void GerarRelatorioDeProdutosPDF()
+        {
+            _produtoService.GerarRelatorioDeProdutosPDF();
+        }
     }
 }

@@ -8,5 +8,6 @@ namespace MRY.Domain.Abstracts.Service
         void Cadastrar(string nome, decimal Quantidade, int Valor, string DataValidade, string DataEstoque, int ICMS);
         bool VerificProdutoPorNome(string name);
         void GerarRelatorioDeProdutosCSV();
+        void GerarRelatorioDeProdutosPDF();
     }
 }

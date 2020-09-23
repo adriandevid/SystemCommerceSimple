@@ -17,6 +17,7 @@ namespace MRY.UI
                     GerarRelatorioCSV();
                     break;
                 case 2:
+                    GerarReatorioPDF();
                     break;
                 case 3:
                     Program.Main();
@@ -35,7 +36,12 @@ namespace MRY.UI
             Estoque();
         }
         private void GerarReatorioPDF(){
-            //implementar Serviço de dominio para Relatorio em formarto pdf
+            var Container = IoC.Configure();
+            using(var Scope = Container.BeginLifetimeScope()){
+                var app = Scope.Resolve<IProdutoAppService>();
+                app.GerarRelatorioDeProdutosPDF();
+            }
+            Estoque();
         }
     }
 }

@@ -62,3 +62,5 @@ C:\Users\PC\source\repos\MRY\MRY.UI\bin\Debug\netcoreapp3.1\MRY.Infrastructure.I
 C:\Users\PC\source\repos\MRY\MRY.UI\bin\Debug\netcoreapp3.1\MRY.Application.pdb
 C:\Users\PC\source\repos\MRY\MRY.UI\bin\Debug\netcoreapp3.1\MRY.Infrastructure.IOC.pdb
 C:\Users\PC\source\repos\MRY\MRY.UI\bin\Debug\netcoreapp3.1\MRY.Infrastructure.DataAcesss.pdb
+C:\Users\PC\source\repos\MRY\MRY.UI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\PC\source\repos\MRY\MRY.UI\bin\Debug\netcoreapp3.1\itextsharp.dll

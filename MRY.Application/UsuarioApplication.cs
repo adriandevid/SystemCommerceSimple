@@ -17,42 +17,37 @@ namespace MRY.Application
 
         public bool Login(string nome, string senha)
         {
-            throw new NotImplementedException();
+            return ServiceUser.Login(nome, senha);
         }
 
         public void Cadastrar(string nome, string senha, string empresa, string Funcao)
         {
-            throw new NotImplementedException();
+            ServiceUser.Cadastrar(nome, senha, empresa, Funcao);
         }
 
         public void Add(Usuario obj)
         {
-            throw new NotImplementedException();
+            ServiceUser.Add(obj);
         }
 
         public List<Usuario> GetAll()
         {
-            throw new NotImplementedException();
+            return ServiceUser.GetAll();
         }
 
         public void Update(Usuario obj)
         {
-            throw new NotImplementedException();
+            ServiceUser.Update(obj);
         }
 
         public void Remove(Usuario obj)
         {
-            throw new NotImplementedException();
-        }
-
-        public void Dispose()
-        {
-            throw new NotImplementedException();
+            ServiceUser.Remove(obj);
         }
 
         public void SaveChanges()
         {
-            throw new NotImplementedException();
+            ServiceUser.SaveChanges();
         }
     }
 }
