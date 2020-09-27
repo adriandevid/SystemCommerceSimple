@@ -28,13 +28,6 @@ namespace MRY.UI
                     break;
             }
             Console.WriteLine("----------------------------------");
-
-            /* var container = IoC.Configure();
-            using (var scope = container.BeginLifetimeScope())
-            {
-                var app = scope.Resolve<IProdutoAplication>();
-                app.GerarRelatorioDeProdutosCSV();
-            }*/
         }
     }
 }

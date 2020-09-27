@@ -87,40 +87,59 @@ namespace MRY.Domain.Services
         {
             List<Produto> ListaDeProdutos = _produtoRepository.GetAll();
 
-            Document document  = new Document(PageSize.A4);
-            document.SetMargins(3, 2, 3, 2);
-            PdfWriter writer1 = PdfWriter.GetInstance(document, new FileStream(
-                Directory.GetCurrentDirectory() + "\\NomeArquivo.pdf", FileMode.Create
+            Document documentPdf  = new Document(PageSize.A4);
+            documentPdf.SetMargins(3, 2, 3, 2);
+            PdfWriter writer1 = PdfWriter.GetInstance(documentPdf, new FileStream(
+                 "..\\MRY.Infrastructure.DataAcesss\\Relatorios\\RelatorioPdf.pdf", FileMode.Create
             ));
-            Console.WriteLine(Directory.GetCurrentDirectory());
-            document.Open();
+            documentPdf.Open();
 
             PdfPTable table = new PdfPTable(3);
 
-            Font fonte = FontFactory.GetFont(BaseFont.TIMES_ROMAN, 22);
+            Font fonte = FontFactory.GetFont(BaseFont.TIMES_ROMAN, 11);
 
             Paragraph Coluna1 = new Paragraph("ID", fonte);
             Paragraph Coluna2 = new Paragraph("Nome", fonte);
             Paragraph Coluna3 = new Paragraph("Quantidade", fonte);
-            Paragraph Coluna4 = new Paragraph("Valor Unidade", fonte);
+            Paragraph LinhaTitle = new Paragraph("Relatorio de estoque", fonte);
+            Paragraph SpaceForTable = new Paragraph(" ", fonte);
+            LinhaTitle.Alignment = 1;
+
+            documentPdf.Add(LinhaTitle);
+            documentPdf.Add(SpaceForTable);
 
             var Cell1 = new PdfPCell();
             var Cell2 = new PdfPCell();
             var Cell3 = new PdfPCell();
-            var Cell4 = new PdfPCell();
 
             Cell1.AddElement(Coluna1);
             Cell2.AddElement(Coluna2);
             Cell3.AddElement(Coluna3);
-            Cell4.AddElement(Coluna4);
 
             table.AddCell(Cell1);
             table.AddCell(Cell2);
             table.AddCell(Cell3);
-            table.AddCell(Cell4);
             
-            document.Add(table);
-            document.Close();
+
+            foreach(Produto produto in ListaDeProdutos)
+            {
+                var DataIdCollumn = new Phrase(Convert.ToString(produto.ProdutoId));
+                var CellN1 = new PdfPCell(DataIdCollumn);
+                table.AddCell(CellN1);
+
+                var DataNameCollumn = new Phrase(produto.Nome);
+                var CellN2 = new PdfPCell(DataNameCollumn);
+                table.AddCell(CellN2);
+
+                var DataQuantidadeCollumn = new Phrase(Convert.ToString(produto.Quantidade));
+                var CellN3 = new PdfPCell(DataQuantidadeCollumn);
+                table.AddCell(CellN3);
+
+            }
+
+            documentPdf.Add(table);
+            documentPdf.Close();
+
         }
     }
 }

@@ -28,11 +28,3 @@ namespace MRY.Infrastructure.IOC
 
     }
 }
-/*var container = IoC.Configure();
-using (var scope = container.BeginLifetimeScope())
-{
-   teste unitario de funcionalidades do software
-   var app = scope.Resolve<IUsuarioAplication>();
-    app.Cadastrar(Nome.Text, senha.Text, Empresa.Text, funcao.Text);
-}
-*/
