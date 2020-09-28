@@ -8,7 +8,7 @@ namespace MRY.UI
         {
             Console.WriteLine("Ola!! Bem-vindo ao sistema de venda e gerenciamento de produtos.");
             Console.WriteLine("Escolha uma das opções abaixo:\n"+
-                                "1 - Balcao\n"+
+                                    "1 - Balcao\n"+
                                 "2 - Estoque\n"+
                                 "3 - Encerrar");
             var resposta = Console.ReadLine();

@@ -47,6 +47,7 @@ namespace MRY.Domain.Services
                 ICMS = ICMS,
                 Fornecedores = { }
             });
+            _produtoRepository.SaveChanges();
         }
 
         public bool VerificProdutoPorNome(string name)
