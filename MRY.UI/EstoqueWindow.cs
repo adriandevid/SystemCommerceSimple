@@ -7,7 +7,8 @@ namespace MRY.UI
 {
     public class EstoqueWindow
     {
-        public void Estoque(){
+        public void Estoque()
+        {
             Console.WriteLine("-------------------------------------------");
             Console.WriteLine("Balcao: ");
             Console.WriteLine("Digite o numero das opções que desejar: \n" + "1 - Relatorio Em Modo CSV \n " + "2 - Relatorio em modo PDF \n " + "3 - Voltar ao menu anterior \n " + "4 - Adicionar produto");
